@@ -1,5 +1,7 @@
 # GitHub Action to Sync S3 Bucket 🔄
 
+*NOTE:* This is a forked repo where the Dockerfile has beend modified to pull the latest versions of `Python` and the `aws-cli`.
+
 This simple action uses the [vanilla AWS CLI](https://docs.aws.amazon.com/cli/index.html) to sync a directory (either from your repository or generated during your workflow) with a remote S3 bucket.
 
 
