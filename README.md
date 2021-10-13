@@ -1,3 +1,5 @@
+DEPRECATED; No longer used in any of our workflows
+
 # GitHub Action to Sync S3 Bucket 🔄
 
 *NOTE:* This is a forked repo where the Dockerfile has beend modified to pull the latest versions of `Python` and the `aws-cli`.
